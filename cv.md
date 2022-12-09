@@ -19,7 +19,6 @@
 1. **Mogilev State University named after A. A. Kuleshov**
 2. **Economic law**
 
-
 ## Code Example
 
 ```
@@ -35,7 +34,7 @@ function scroller() {
 }
 
 ```
-# Languages
+## Languages
 
 1. **Russian** - native speaker
 2. **English** - A2
