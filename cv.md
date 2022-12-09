@@ -14,7 +14,7 @@
 3. **Adobe Illustrator**
 4. **Git/GitHub**
 
-# Education
+## Education
 
 1. **Mogilev State University named after A. A. Kuleshov**
 2. **Economic law**
