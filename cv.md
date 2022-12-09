@@ -1,4 +1,4 @@
-# Valeriy Komar
+# Valery Komar
 
 ## Contacts
 
@@ -13,6 +13,10 @@
 2. **Adobe Photoshop Lightroom**
 3. **Adobe Illustrator**
 4. **Git/GitHub**
+
+## About me
+
+I'm 18 years old. I am a student of the Mogilev State University named after A. A. Kuleshov. I am interested in development and training in the field of IT. I am active and ready to develop in this area.
 
 ## Education
 
@@ -34,6 +38,7 @@ function scroller() {
 }
 
 ```
+
 ## Languages
 
 1. **Russian** - native speaker
